@@ -8,5 +8,6 @@ main() {
     cin>>a>>b>>;
     cout<<endl;
     cout<<"A+B+"<<a+b<<endl;
+    cout<<a*2<<endl;
     system("pause");
 }
