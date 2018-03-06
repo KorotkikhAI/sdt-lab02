@@ -8,5 +8,6 @@ int main() {
     cout<<"A+B+"<<a+b<<endl;
     cout<<a*2<<endl;
  cout<<a-b<<endl;
+    cout<<a*b<<endl;
     system("pause");
 }
